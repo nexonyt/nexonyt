@@ -13,10 +13,6 @@ Currently I'm working ...
 
 ## Stuff I know 🤓
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,ae,pr,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,php,ae,pr,ps&theme=dark)](https://skillicons.dev)
 
-
-## Want to learn 🧠
-
-![My Skills](https://skillicons.dev/icons?i=vim,rust,kubernetes,angular,docker,graphql,nodejs,deno)
 
