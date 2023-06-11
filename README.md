@@ -7,7 +7,7 @@
 
 💻 My online portfolio: (https://nexonstudio.pl/)
 
-Contant me on email: kontakt@nexonstudio.pl
+📧 Contact me on email: kontakt@nexonstudio.pl
 
 Waiting for your feedback on socials!!
 
