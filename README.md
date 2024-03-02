@@ -16,7 +16,8 @@ Waiting for your feedback on socials!!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,php,ae,pr,ps,git,vscode&theme=dark)](https://skillicons.dev) <br/>
 
 ## Statistics 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nexonyt&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nexonyt&border_radius=15)](https://git.io/streak-stats)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nexonyt&icon=0&color=0)](https://visitcount.itsvg.in)
